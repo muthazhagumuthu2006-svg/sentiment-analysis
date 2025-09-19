@@ -1,0 +1,29 @@
+python -m streamlit run src/app_streamlit.py
+
+
+
+
+
+
+I hate the experience This ruined my day.
+Such a waste of money the app Would not recommend...
+Very pleased with the features !
+Not happy about the update Returned immediately.
+This is amazing the team's work It made my day.
+The package arrived yesterday. Thanks.
+Absolutely fantastic this product Will buy again.
+Very pleased with the experience Superb.
+I enjoyed this product 🎉
+The package arrived yesterday.
+It is a phone with a 6-inch screen.
+I enjoyed the features 👍
+Very disappointed with the features This ruined my day.
+I have a meeting at 10 AM tomorrow.
+I dislike the update Would not recommend.
+Not happy about the delivery 👎
+Very disappointed with the UI Totally unacceptable.
+This is amazing the customer support Will buy again. Thanks.
+This is amazing the team's work Superb. Note.
+Very disappointed with the features .
+
+
